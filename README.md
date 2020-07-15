@@ -1,2 +1,1 @@
-# Assignment5_php-MySQL
-Assignment for php and MySQL
+https://rahulmirashi.github.io/Assignment5_php-MySQL/form.html
